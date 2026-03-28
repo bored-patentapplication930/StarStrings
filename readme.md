@@ -16,8 +16,11 @@
 > [!WARNING]
 > You will need to maintain this file in order to keep strings up-to-date with each new build/patch that modifies strings. I have an automation setup to push new versions live but please keep in mind that I am UK based and PTU builds normally go up very late UK time, so there may be a few hours delay
 
-# Unfixable Problems
-- Rayari "Need More Research Data" is a generic description/title re-used for many different contracts, most not awarding blueprints. #5
+# Known Constraints/Unfixable Problems
+- Because of how some contracts share strings, there's some 'odd' looking behaviour that I've tried to show cleanly with `*` in titles marked with BP and then caveat text in the description. (I'm trying to keep this to an automated find/conditional replace operation so I don't need to manually maintain)
+- Some contracts like Black Box recovery literally share the same assigned strings across mission givers
+- Rayari "Need More Research Data" is a generic description/title re-used for many different contracts, most not awarding blueprints.
+  - The title shows [BP] but I have added a caveat that it's for Yormandi Eyes Only
 # Installation
 1. Download the latest release on the right hand side
 2. Extract the ZIP file.
