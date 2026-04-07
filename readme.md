@@ -11,7 +11,8 @@
 - Hephaestanite (Raw) shortened to Heph (Raw)
 - Hauling contract titles cleaned up and Direct underlined
 - Reformatted the Mining guide journal entry to group ores by rarity
- - nb. I have not verified that the source journal entry is in any way accurate. It looks like it's still using 4.6 information....
+  - nb. I have not verified that the source journal entry is in any way accurate. It looks like it's still using 4.6 information....
+  - Contribute to the [Issue Council report](https://issue-council.robertsspaceindustries.com/projects/STAR-CITIZEN/issues/STARC-199087)
 - Type notation prefix for missiles (Thanks to WhisperDark in Discord for suggestion)
   - Eg. `Dominator II Missile` -> `[EM] Dominator II Missile`
 
